@@ -1,0 +1,7 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+<ShortName>战千里</ShortName>
+<Description>一身转战三千里，一剑曾当百万师。</Description>
+<InputEncoding>UTF-8</InputEncoding>
+<Image width="16" height="16" type="image/x-icon">https://res.zixizixi.cn/izcn.png</Image>
+<Url type="text/html" method="get" template="https://zixizixi.cn/search?keyword={searchTerms}"/>
+</OpenSearchDescription>
