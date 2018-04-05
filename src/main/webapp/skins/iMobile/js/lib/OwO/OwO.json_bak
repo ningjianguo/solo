@@ -1,0 +1,444 @@
+{
+"颜文字": {
+	"type": "emoticon",
+	"container": [
+		{"icon": "OωO","text": "萌"},
+		{"icon": "|´・ω・)ノ","text": "Hi"},
+		{"icon": "ヾ(≧∇≦*)ゝ","text": "开心"},
+		{"icon": "(●ﾟωﾟ●)","text": "脸红"},
+		{"icon": "￣﹃￣","text": "流口水"},
+		{"icon": "(/ω＼)","text": "捂脸"},
+		{"icon": "→_→","text": "斜眼"},
+		{"icon": "（╯‵□′）╯︵┴─┴","text": "掀桌"},
+		{"icon": "∠( ᐛ 」∠)＿","text": "给跪"},
+		{"icon": "(＠。ε。＠))","text": "么么哒"},
+		{"icon": "୧(๑•̀⌄•́๑)૭","text": "加油"},
+		{"icon": "⌇●﹏●⌇","text": "吓死宝宝惹"},
+		{"icon": "٩(ˊᗜˋ*)و","text": "有木有WiFi"},
+		{"icon": "(ノ°ο°)ノ","text": "前方高能预警"},
+		{"icon": "(´இ皿இ｀)","text": "我从未见过如此厚颜无耻之人"},
+		{"icon": "(ฅ´ω`ฅ)","text": "已阅留爪"},
+		{"icon": "(╯°A°)╯︵○○○","text": "去吧大师球"},
+		{"icon": "φ(￣∇￣o)","text": "太萌惹"},
+		{"icon": "ヾ(´･ ･｀｡)ノ\"","text": "咦咦咦"},
+		{"icon": "( ง ᵒ̌皿ᵒ̌)ง⁼³₌₃","text": "气呼呼"},
+		{"icon": "(๑•̀ㅂ•́)و✧","text": "加油"},
+		{"icon": "Σ(っ °Д °;)っ","text": "什么鬼"},
+		{"icon": "─=≡Σ(((つ•̀ω•́)つ","text": "飞扑"},
+		{"icon": "╮(╯▽╰)╭ ","text": "无奈"},
+		{"icon": "( ,,´･ω･)ﾉ\"(´っω･｀｡)","text": "摸摸头"},
+		{"icon": " ♥(✿ฺ´∀`✿ฺ)ﾉ","text": "花痴"},
+		{"icon": "٩(๑>◡<๑)۶","text": "真棒"},
+		{"icon": "(ó﹏ò｡)","text": "我受到了惊吓"}
+	]
+},
+"图片表情": {
+	"type": "image",
+	"container": [
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/simple/weixiao.jpeg?x-oss-process=image/resize,h_100\">",
+			"text": "微笑"
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/simple/feiwen.jpeg?x-oss-process=image/resize,h_100\">",
+			"text": "飞吻"
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/simple/hahaha.jpeg?x-oss-process=image/resize,h_100\">",
+			"text": "哈哈哈"
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/simple/haixiu.jpeg?x-oss-process=image/resize,h_100\">",
+			"text": "人家害羞啦"
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/simple/huachi.jpeg?x-oss-process=image/resize,h_100\">",
+			"text": "犯花痴"
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/simple/huaixiao.jpeg?x-oss-process=image/resize,h_100\">",
+			"text": "坏笑"
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/simple/jingya.jpeg?x-oss-process=image/resize,h_100\">",
+			"text": "好惊讶啊"
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/simple/kongbu.jpeg?x-oss-process=image/resize,h_100\">",
+			"text": "好恐怖啊"
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/simple/meimeida.jpeg?x-oss-process=image/resize,h_100\">",
+			"text": "美美哒"
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/simple/mengmengda.jpeg?x-oss-process=image/resize,h_100\">",
+			"text": "萌萌哒"
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/simple/pibei.jpeg?x-oss-process=image/resize,h_100\">",
+			"text": "疲惫不堪"
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/simple/shangxin.jpeg?x-oss-process=image/resize,h_100\">",
+			"text": "好伤心"
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/simple/shuangfeile.jpeg?x-oss-process=image/resize,h_100\">",
+			"text": "爽︿(￣︶￣)︽(￣︶￣)︿飞.飞.飞."
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/simple/woyun.jpeg?x-oss-process=image/resize,h_100\">",
+			"text": "我晕@"
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/simple/wuyu.jpeg?x-oss-process=image/resize,h_100\">",
+			"text": "无语了"
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/simple/ganga.jpeg?x-oss-process=image/resize,h_100\">",
+			"text": "这就尴尬了..."
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/simple/bishi.jpeg?x-oss-process=image/resize,h_100\">",
+			"text": "凸^-^凸"
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/simple/fennu.jpeg?x-oss-process=image/resize,h_100\">",
+			"text": "愤怒！"
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/simple/xianggu.jpeg?x-oss-process=image/resize,h_100\">",
+			"text": "蓝瘦香菇"
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/simple/xiaoku.jpeg?x-oss-process=image/resize,h_100\">",
+			"text": "笑哭了"
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/simple/xingfen.jpeg?x-oss-process=image/resize,h_100\">",
+			"text": "好兴奋呀~"
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/simple/xixi.jpeg?x-oss-process=image/resize,h_100\">",
+			"text": "(*^__^*) 嘻嘻"
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/simple/yindang.jpeg?x-oss-process=image/resize,h_100\">",
+			"text": "淫荡的笑了"
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/simple/zhayan.jpeg?x-oss-process=image/resize,h_100\">",
+			"text": "向你眨了眨眼"
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/bbxlk.jpg?x-oss-process=image/resize,h_100\">",
+			"text": "宝宝心里苦"
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/douwo.jpg?x-oss-process=image/resize,h_100\">",
+			"text": "你在逗我？"
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/huanhu.jpg?x-oss-process=image/resize,h_100\">",
+			"text": "来呀~"
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/jizhi.jpg?x-oss-process=image/resize,h_100\">",
+			"text": "机智如我"
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/maijiu.jpg?x-oss-process=image/resize,h_100\">",
+			"text": "买酒去"
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/guizhidao.jpg?x-oss-process=image/resize,h_100\">",
+			"text": "鬼知道"
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/laji.gif?x-oss-process=image/resize,h_100\">",
+			"text": "辣鸡"
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/zhuangb.jpg?x-oss-process=image/resize,h_100\">",
+			"text": "走一趟"
+		}
+	]
+},
+"Ac娘": {
+	"type": "image",
+	"container": [
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/01.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/02.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/03.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/04.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/05.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/06.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/07.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/08.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/09.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/10.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/11.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/12.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/13.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/14.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/15.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/16.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/17.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/18.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/19.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/20.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/21.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/22.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/23.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/24.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/25.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/26.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/27.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/28.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/29.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/30.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/31.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/32.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/33.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/34.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/35.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/36.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/37.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/38.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/39.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/40.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/41.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/42.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/43.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/44.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/45.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/46.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/47.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/48.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/49.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/50.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/51.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/52.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/53.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		},
+		{
+			"icon": "<img src=\"//itanken.oss-cn-hangzhou.aliyuncs.com/images/emimg/acfun/54.png?x-oss-process=image/resize,h_100\">",
+			"text": ""
+		}
+	]
+},
+"Emoji": {
+	"type": "emoji",
+	"container": [
+		{"icon": "😂","text": "笑哭"},
+		{"icon": "😀","text": "哈哈"},
+		{"icon": "😅","text": "流汗"},
+		{"icon": "😊","text": "可爱"},
+		{"icon": "🙂","text": "微笑"},
+		{"icon": "🙃","text": "我倒"},
+		{"icon": "😌","text": "嘻嘻"},
+		{"icon": "😍","text": "爱你"},
+		{"icon": "😘","text": "飞吻"},
+		{"icon": "😜","text": "鬼脸"},
+		{"icon": "😝","text": "啦啦啦"},
+		{"icon": "😏","text": "坏笑"},
+		{"icon": "😒","text": "撇嘴"},
+		{"icon": "🙄","text": "白眼"},
+		{"icon": "😳","text": "脸红"},
+		{"icon": "😡","text": "愤怒"},
+		{"icon": "😔","text": "哎"},
+		{"icon": "😫","text": "好累"},
+		{"icon": "😱","text": "惊恐"},
+		{"icon": "😭","text": "大哭"},
+		{"icon": "😶","text": "无语"},
+		{"icon": "😣","text": "难过"},
+		{"icon": "😤","text": "气死"},
+		{"icon": "😪","text": "困了"},
+		{"icon": "😮","text": "惊呆"},
+		{"icon": "😲","text": "天哪"},
+		{"icon": "🤥","text": "说谎"},
+		{"icon": "🤢","text": "恶心"},
+		{"icon": "👻","text": "吓死你"},
+		{"icon": "👍","text": "棒棒哒"},
+		{"icon": "👎","text": "鄙视"},
+		{"icon": "👏","text": "鼓掌"},
+		{"icon": "👋","text": "拜拜"},
+		{"icon": "👭","text": "朋友"},
+		{"icon": "🌝","text": "满月"},
+		{"icon": "🌞","text": "太阳"},
+		{"icon": "🙈","text": "看不见"},
+		{"icon": "💊","text": "该吃药了"},
+		{"icon": "🙏","text": "拜托"}
+	]
+},
+"MD": {
+	"type": "emoticon",
+	"container": [
+		{"icon":"[TEXT](https://zixizixi.cn 'TITLE')","text":"链接"},
+		{"icon":"![ALT](https://zixizixi.cn/icon.png 'TITLE')","text":"图片"},
+		{"icon":"#","text":"标题"},
+		{"icon":"> ","text":"引用"},
+		{"icon":"*","text":"粗/斜/项"},
+		{"icon":"```","text":"代码"}
+	]
+}
+}
